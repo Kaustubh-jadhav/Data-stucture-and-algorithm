@@ -42,6 +42,7 @@ int main()
       printf("\n %d is found at %d",x,middle+1);
    else
      printf("\n %d not found",x);
+     print("\n");
 }
 
 /*OUTPUT
@@ -65,6 +66,7 @@ int main()
  Enter number to be searched:12
 
  12 is found at 1
+
 */
 
 
